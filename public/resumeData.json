@@ -13,32 +13,27 @@
       "state": "Uttar Pradesh",
       "zip": "250002"
     },
-    "website": "https://www.linkedin.com/in/rahul-kumar-barnwal-34423714a/",
-    "resumedownload": "https://drive.google.com/file/d/1gmY0i38XhMHbXUz6sQbuN_O2TSbkYr41/view?usp=sharing",
-    "social": [
-      {
+    "website": "https://www.linkedin.com/in/meenakshi-lodhi-rajput%F0%9F%87%AE%F0%9F%87%B3-26227a237/",
+    "resumedownload": "https://drive.google.com/file/d/1XgWGrLpxlVcfTEn3DAC4iWCbP-XZwWKR/view?usp=share_link",
+    "social": [{
         "name": "twitter",
-        "url": "https://www.linkedin.com/in/rahul-kumar-barnwal-34423714a/",
+        "url": "https://twitter.com/msuryavanshirp",
         "className": "fa fa-twitter"
       },
-      {
-        "name": "facebook",
-        "url": "https://www.linkedin.com/in/rahul-kumar-barnwal-34423714a/",
-        "className": "fa fa-facebook"
-      },
+      
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/rahul-kumar-barnwal-34423714a/",
+        "url": "https://www.linkedin.com/in/meenakshi-lodhi-rajput%F0%9F%87%AE%F0%9F%87%B3-26227a237/",
         "className": "fa fa-linkedin"
       },
       {
-        "name": "instagram",
-        "url": "https://www.linkedin.com/in/rahul-kumar-barnwal-34423714a/",
-        "className": "fa fa-instagram"
+        "name": "youtube",
+        "url": "https://www.youtube.com/channel/UCaiLbF5E5w8xExg5Dfz7muA",
+        "className": "fa fa-youtube"
       },
       {
         "name": "github",
-        "url": "https://github.com/rahulgithub-web",
+        "url": "https://github.com/msuryavanshi982",
         "className": "fa fa-github"
       }
     ]
