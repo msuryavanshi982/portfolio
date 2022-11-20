@@ -40,74 +40,48 @@
   },
   "resume": {
     "skillmessage": "My Programming Language Proficiency",
-    "education": [
-      {
-        "college": "Ramgovind Institute of Technology Koderma - Jharkhand",
-        "degree": "Bachelor's Degree, Electronics and Communication",
-        "graduated": "December 2020",
-        "description": "Graduated with First Class Honours"
-      }
-    ],
-    "work": [
-      {
-        "project": "Product Managament Ststem(Shopping Cart)",
-        "title": "Javascript, Nodejs, MongoDB, Express, Bycrypt, JsonWebToken, AWS S3", 
-        "year": "August 2022",
-        "description": "We have successfully completed our 5th Project, Shopping Cart, with my teammates Mohit Singh【&】Sagar Samedia. In this project we basically have added 4 features namely User, Product, Cart and Order." 
-      },
+    "education": [{
+      "college": "D.N. College Meerut affliated to CCS University",
+      "degree": "B.Sc. Computer Science",
+      "graduated": "July 2019",
+      "description": "Graduated with First Class Honours with higest percentage in college"
+    }],
+    "work": [{
+      "project": "Mini Blog Project",
+      "title": "Nodejs, MongoDB, Express, JsonWebToken",
+      "year": "September 2022",
+      "description": "We have successfully completed our project, Blogging Site, with my teammates  Ishaan Mangal, Atul Yadav and Subhajeet Banerjee.This is a group project where we had to create API's for resgistering a user as a Author login of user with JWT Token for authentication purpose and has has worked on authorization for creating blogs, getting list of blogs, updation and deletion of the blogs."
+    },
       {
         "project": "Open To Intern",
         "title": "Nodejs, MongoDB, Express, Javascript",
-        "year": "July 2022",
-        "description": "𝗢𝗽𝗲𝗻 𝘁𝗼 𝗜𝗻𝘁𝗲𝗿𝗻 𝗣𝗿𝗼𝗷𝗲𝗰𝘁, with my teammates MOHAMMAD WASIF, Mohd Farhan and Monisha Mittal. In this project we basically managed the students who want to apply for the interns in a particular college. There we introduced 3 #apis and have done the authentication, validations using different functions which was executed by mongodb and nodejs ."
+        "year": "September 2022",
+        "description": "OPEN TO INTERN PROJECT, with my teammates Prital Rupnur, Jyoti Kumari and Bhuwan Singh Samant. In this project we basically managed the students who want to apply for the interns in a particular college. There we introduced 3 #apis and have done the authentication, validations using different functions which was executed by mongodb and nodejs ."
       },
       {
         "project": "Book Management System",
         "title": "Nodejs, MongoDB, Express, Javascript, AWS S3, JWT, Multer",
-        "year": "July 2022",
-        "description": "We have successfully completed our project, 𝗕𝗼𝗼𝗸𝘀 𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁 𝗦𝘆𝘀𝘁𝗲𝗺, with my teammates Md. Salik Siddiqui , Md Danish Alam and Diksha Bansod Bansod. In this project we basically managed the user, the books and the rewiew which can be given the guest or a genuine user. There we introduced 𝟭𝟬 #apis and have done the #CRUD_operations, validations using different functions which was executed by mongodb and nodejs and have also introduced the authentication and authorization"
+        "year": "September 2022",
+        "description": "We have successfully completed our project,Book 𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁 𝗦𝘆𝘀𝘁𝗲𝗺, with my teammates Debashish Behra, Priyanka Panda, Rohan Kumar. In this project we basically managed the user, the books and the rewiew which can be given the guest or a genuine user. There we introduced 10 #apis and have done the #CRUD_operations, validations using different functions which was executed by mongodb and nodejs and have also introduced the authentication and authorization"
       },
       {
         "project": "Scalable Url Shortner",
         "title": "Nodejs, MongoDB, Express, Javascript, Redis",
-        "year": "July 2022",
-        "description": "We have successfully completed our project, 𝘂𝗿𝗹𝗦𝗵𝗼𝗿𝘁𝗻𝗲𝗿, with my teammates Md Irshad ali 【&】Musharraf Ansari. In this project we basically have to shorten the long Url's and then we also have used #redis to save the particular link in cache memory or to minimize the database call . There we introduced 𝟮 #apis that was defined #express #router function mongodb and nodejs .."
+        "year": "October 2022",
+        "description": "We have successfully completed our project, url Shortner, with my teammates Aman Kumar Mahto, Ghanshyam chhatriya, and mohmmad Vaseem. In this project we basically have to shorten the long Url's and then we also have used #redis to save the particular link in cache memory or to minimize the database call . There we introduced 2 #apis that was defined #express #router function mongodb and nodejs .."
       },
       {
-        "project": "Mini Blog Project",
-        "title": "Nodejs, MongoDB, Express, JsonWebToken",
-        "year": "June 2022",
-        "description": "This is a group project where we had to create API's for resgistering a user as a Author login of user with JWT Token for authentication purpose and has has worked on authorization for creating blogs, getting list of blogs, updation and deletion of the blogs."
+        "project": "Product Managament Ststem(Shopping Cart)",
+        "title": "Javascript, Nodejs, MongoDB, Express, Bycrypt, JsonWebToken, AWS S3",
+        "year": "October 2022",
+        "description": "We have successfully completed our 5th Project, Shopping Cart, with my teammates Rupali Kumari, Shivanshi Panday & Mohd Abass Hasan. In this project we basically have added 4 features namely User, Product , Cart and Order."
       },
+      
       {
-        "project": "Open To Intern",
-        "title": "Nodejs, MongoDB, Express, Javascript",
-        "year": "June 2022",
-        "description": "𝗢𝗽𝗲𝗻 𝘁𝗼 𝗜𝗻𝘁𝗲𝗿𝗻 𝗣𝗿𝗼𝗷𝗲𝗰𝘁, with my teammates MOHAMMAD WASIF, Mohd Farhan and Monisha Mittal. In this project we basically managed the students who want to apply for the interns in a particular college. There we introduced 3 #apis and have done the authentication, validations using different functions which was executed by mongodb and nodejs ."
-      },
-      {
-        "project": "QrCode Genarator",
-        "title": "using Reactjs",
-        "year": "April 2022",
-        "description": "In this project i have created a input box where users can store data and can easily generate QrCode and also users can download the QrCode by just clicking on Download button"
-      },
-      {
-        "project": "Portfolio Website Design",
-        "title": "using css and html",
-        "year": "Jan 2022",
-        "description": "After Developing my skills on Web Development I made a Portfolio Website Design which is completely based on HTML and CSS."
-      },
-      {
-        "project": "Restaurant Website",
-        "title": "using css and html",
-        "year": "Jan 2022",
-        "description": "This Project is completely responsive and easy to use."
-      },
-      {
-        "project": "University Website",
+        "project": "Yogita Coaching Website",
         "title": "using css, html and Javascript",
-        "year": "Jan 2022",
-        "description": "Multi Page University Website Design which is completely based on HTML, CSS and Javascript. In this project i have created a five different web pages and all this web pages have been linked through a Navigation Menu."
+        "year": "may 2022",
+        "description": "Multi Page University Website Design which is completely based on HTML, CSS and Javascript. In this project ,I  have created a five different web pages and all this web pages have been linked through a Navigation Menu.To maintain my Coaching Centre data digitally and provide online classes and study material by using HTML CSS, JAVASCRIPT,"
       }
     ],
     "skills": [
