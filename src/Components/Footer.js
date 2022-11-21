@@ -15,7 +15,6 @@ const Footer = ({ data }) => {
 
   return (
     <footer>
-    <div><iframe width="424" height="238" src="https://www.youtube.com/embed/dFI7LIb4f9I" title="open to intern ||project|| @Function Up" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
       <div className="row">
         <div className="twelve columns">
           <ul className="social-links">{networks}</ul>
