@@ -71,7 +71,7 @@
         "description": "We have successfully completed our project, url Shortner, with my teammates Aman Kumar Mahto, Ghanshyam chhatriya, and mohmmad Vaseem. In this project we basically have to shorten the long Url's and then we also have used #redis to save the particular link in cache memory or to minimize the database call . There we introduced 2 #apis that was defined #express #router function mongodb and nodejs .."
       },
       {
-        "project": "Product Managament Ststem(Shopping Cart)",
+        "project": "Product Managament System(Shopping Cart)",
         "title": "Javascript, Nodejs, MongoDB, Express, Bycrypt, JsonWebToken, AWS S3",
         "year": "October 2022",
         "description": "We have successfully completed our 5th Project, Shopping Cart, with my teammates Rupali Kumari, Shivanshi Panday & Mohd Abass Hasan. In this project we basically have added 4 features namely User, Product , Cart and Order."
@@ -128,11 +128,53 @@
 },
 "portfolio": {
   "projects": [{
-      "title": "photos_gallery ",
-      "category": "HTML-CSS",
-      "image": "photo_gallary.png",
-      "url": "https://photos-gallery-tau.vercel.app/"
+    "title": "Blogging-Site",
+    "category": "Node js & MongoDB",
+    "image": "blog-site.png",
+    "url": "https://github.com/msuryavanshi982/Project-1-Blogging-site-"
+  },
+  {
+    "title": "Open-To-Intern",
+    "category": "Node js & MongoDB",
+    "image": "open-to-intern.png",
+    "url": "https://github.com/msuryavanshi982/Project-2-open-to-intern-BackEnd-.git"
+  },
+    {
+      "title": "Book-Management ",
+      "category": "Node js & MongoDB",
+      "image": "book-management.png",
+      "url": "https://github.com/msuryavanshi982/project-3-Book-Management"
     },
+    {
+      "title": "Url Shortner",
+      "category": "Node js & MongoDB",
+      "image": "url-shortner.png",
+      "url": "https://github.com/msuryavanshi982/project-4-URLShortner"
+    },
+    {
+      "title": "Product Management",
+      "category": "Node js & MongoDB",
+      "image": "product-management.png",
+      "url": "https://github.com/msuryavanshi982/project-5-productsManagement"
+    },
+    {
+      "title": "Baate kare Live Chat App",
+      "category": "Node js & socket.io",
+      "image": "baate-kare.png",
+      "url": "https://github.com/msuryavanshi982/chat-app"
+    },
+    {
+      "title": "My ToDo List",
+      "category": "HTML, CSS & JavaScript",
+      "image": "my-todo-list.png",
+      "url": "https://my-todo-list-app-zeta.vercel.app/"
+    },
+      {
+        "title": "photos_gallery ",
+        "category": "HTML-CSS",
+        "image": "photo_gallary.png",
+        "url": "https://photos-gallery-tau.vercel.app/"
+      },
     {
       "title": "swoosh",
       "category": "HTML-CSS-JS",
